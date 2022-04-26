@@ -8,3 +8,5 @@ Current Version Rules/Capabilities:
 
 
 This was created using Replit and Idle. Hence, this code can be used on either platform (and more) to enjoy the two-player game. 
+
+CREATED BY KAVYA RAJESH AND MOUNICA AKULA
