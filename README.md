@@ -1,4 +1,4 @@
-I developed this rudimentary version of TicTacToe using Python for a class project. Have fun playing!
+My friend and I developed this rudimentary version of TicTacToe using Python for a class project. Have fun playing!
 
 Current Version Rules/Capabilities:
 1. Only two-player option available
